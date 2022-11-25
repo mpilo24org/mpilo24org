@@ -2,7 +2,6 @@
 
 ### Sport social enterprise - ocean non profit.
 
-### t: mpilo24org m:sport@mpilo24.org f:mpilo24org
 
 <!--
 **mpilo24org/mpilo24org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
