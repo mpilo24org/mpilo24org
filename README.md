@@ -1,7 +1,6 @@
 ### About Mpilo24org.
 
-### Sport social enterprise - ocean non profit. 
-### We work to help disadvantaged communities through tech and sport.
+### Sport social enterprise - ocean non profit.
  
 
 
