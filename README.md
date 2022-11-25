@@ -1,8 +1,7 @@
 ### About Mpilo24org.
 
 ### Sport social enterprise - ocean non profit.
-
-### sport[at]mpilo24.org 
+ 
 
 
 <!--
